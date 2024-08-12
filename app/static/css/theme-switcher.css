@@ -1,0 +1,10 @@
+/* Styles for the theme switcher button */
+.theme-switcher {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background: #f0f0f0;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
